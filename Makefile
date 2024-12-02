@@ -1,5 +1,5 @@
 build:
-	gcc 1b.c -ggdb -o 1b.o && ./1b.o
+	gcc 2b.c -ggdb -o 2b.o && ./2b.o
 
 clean:
 	rm *.o
