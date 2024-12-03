@@ -1,2 +1,5 @@
 *.o
 *.txt
+out
+.vscode
+.idea
